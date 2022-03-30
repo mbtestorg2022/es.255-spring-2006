@@ -29,10 +29,10 @@ Soles, Clyde. "[Climbing Ropes - UIAA Sharp Edge Certification](http://www.snews
 
 [_Current Mountain Rescue Association Grant Awards_](https://mra.org/member-service/grant-information/current-grants/) - A number of relevant papers including:
 
-*   Failure Modes of Snow Anchors, Part III (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://www.itrsonline.org/PapersFolder/2005/Fortini2005_ITRSAbstract.pdf))
+*   Failure Modes of Snow Anchors, Part III ([PDF - 1.0 MB](http://www.itrsonline.org/PapersFolder/2005/Fortini2005_ITRSAbstract.pdf))
 *   What Climbers Think ([PDF](http://mra.org/wp-content/uploads/2016/05/WhatClimbersThink.pdf))
-*   Using Low Stretch Ropes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.itrsonline.org/PapersFolder/2005/SmithBlaine2005_ITRSAbstract.pdf))
-*   How Far can you Trust your Belay Device? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.caves.org/section/vertical/nh/51/Hang_Em_High_Final.pdf))
+*   Using Low Stretch Ropes ([PDF](http://www.itrsonline.org/PapersFolder/2005/SmithBlaine2005_ITRSAbstract.pdf))
+*   How Far can you Trust your Belay Device? ([PDF](http://www.caves.org/section/vertical/nh/51/Hang_Em_High_Final.pdf))
 
 Available in Print
 ------------------
